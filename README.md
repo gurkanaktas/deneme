@@ -2,7 +2,7 @@
 
 Godot Engine 3.2.1 Sürümü İle Projeyi Çalıştırabilirsiniz 
 
-Karakter Kontrolüiçi;
+Karakter Kontrolü için;
 
 Sağ ve Sol Ok Tuşları: Hareket
 
