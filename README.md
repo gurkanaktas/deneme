@@ -2,7 +2,7 @@
 
 Godot Engine 3.2.1 Sürümü İle Projeyi Çalıştırabilirsiniz 
 
-Youtube Kanalımız: https://www.youtube.com/channel/UCIdYgV-XFjv9q0IHtzUTtQw BMDersleri
+Youtube Kanalımız: BMDersleri
 
 Bağlantı: https://www.youtube.com/channel/UCIdYgV-XFjv9q0IHtzUTtQw
 
