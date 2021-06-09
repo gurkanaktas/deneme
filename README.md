@@ -2,6 +2,12 @@
 
 Godot Engine 3.2.1 Sürümü İle Projeyi Çalıştırabilirsiniz 
 
+Karakter Kontrolü:
+
+Sağ Sol Ok Tuşları: Hareket
+
+A Tuşu: Saldırı
+
 Youtube Kanalımız: BMDersleri
 
 Bağlantı: https://www.youtube.com/channel/UCIdYgV-XFjv9q0IHtzUTtQw
