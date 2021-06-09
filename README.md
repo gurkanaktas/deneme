@@ -1,6 +1,6 @@
 ﻿# Oyun Programlama Deseni - State
 
-Godot Engine 3.2.1 Sürümü İle Projeyi Çalıştırabilirsiniz Youtube Kanalımız: BMDersleri
+Godot Engine 3.2.1 Sürümü İle Projeyi Çalıştırabilirsiniz Youtube Kanalımız: https://www.youtube.com/channel/UCIdYgV-XFjv9q0IHtzUTtQw BMDersleri
 
 Bağlantı: https://www.youtube.com/channel/UCIdYgV-XFjv9q0IHtzUTtQw
 
