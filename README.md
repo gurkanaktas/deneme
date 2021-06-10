@@ -1,12 +1,8 @@
-﻿# Oyun Programlama Deseni - State
+﻿# Basketbol Oyunu
 
 Godot Engine 3.2.1 Sürümü İle Projeyi Çalıştırabilirsiniz 
 
-Karakter Kontrolü için;
-
-Sağ ve Sol Ok Tuşları: Hareket
-
-A Tuşu: Saldırı
+Topu fırlatmak için dokunmatik ekranı kullanabilirisiniz
 
 Youtube Kanalımız: BMDersleri
 
